@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProgrammingTechnologyLab2</string>
+    <string name="point1">точка 1</string>
+    <string name="point2">точка 2</string>
+    <string name="point3">точка 3</string>
+    <string name="point4">точка 4</string>
+    <string name="points_of_triangle">Точки треугольника</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="inTriangle">Точка лежит в треугольнике</string>
+    <string name="NotInTriangle">Точка вне треугольника</string>
+    <string name="plot">Построить</string>
+</resources>
